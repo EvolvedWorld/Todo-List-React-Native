@@ -14,6 +14,7 @@ Não se preocupe se você não tem um currículo cheio de experiências — quer
 - Leia com atenção este documento todo e tente seguir ao máximo as instruções;
 - Crie um repositório no seu GitHub para fazer o projeto
 - Ao finalizar, envie o link do seu repositório para o discord do recrutador responsável (cristian.aragao);
+- Enviar, também, o APK do resultado final do projeto;
 - Fique à vontade para perguntar qualquer dúvida ao recrutador;
 - Não há um prazo para a entrega do resultado, leve o tempo que precisar;
 
@@ -30,7 +31,7 @@ Requisitos obrigatórios:
 - React Native Bare Workflow (npx react-native init).
 - OTA updates usando AppCenter CodePush.
 - UI construída usando Gluestack UI + Nativewind.
-- README claro de como rodar e atualizar o projeto.
+- README claro de como rodar o projeto e gerar o APK, caso necessário.
 - Commit history limpo e significativo.
 - Firebase (Usar o firestore como banco de dados)
 
@@ -41,6 +42,7 @@ Requisitos obrigatórios:
 
 ## Critérios de avaliação
 
+- APK funcional;
 - Organização e estrutura do projeto.
 - Legibilidade e clareza do código.
 - Uso correto dos frameworks e bibliotecas solicitadas.
