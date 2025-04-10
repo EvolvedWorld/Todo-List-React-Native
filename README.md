@@ -50,10 +50,7 @@ Requisitos obrigatórios:
 - Qualidade visual: UI agradável e acessível.
 - Tempo de entrega do resultado;
 
-
-```
-Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens. — Colossenses 3:23
-```
+"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens." — Colossenses 3:23
 
 Agradecemos o seu esforço e dedicação em participar deste desafio. Que você possa fazer tudo com excelência, como para o Senhor.
 
