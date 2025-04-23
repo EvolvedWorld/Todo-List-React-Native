@@ -29,7 +29,6 @@ Você deverá construir um app de Todo List que permita:
 
 Requisitos obrigatórios:
 - React Native Bare Workflow (npx react-native init).
-- OTA updates usando AppCenter CodePush.
 - UI construída usando Gluestack UI + Nativewind.
 - README claro de como rodar o projeto e gerar o APK, caso necessário.
 - Commit history limpo e significativo.
@@ -48,7 +47,6 @@ Requisitos obrigatórios:
 - Uso correto dos frameworks e bibliotecas solicitadas.
 - Commits semânticos.
 - README bem escrito e objetivo.
-- Funcionamento correto do OTA update (AppCenter).
 - Qualidade visual: UI agradável e acessível.
 - Tempo de entrega do resultado;
 
