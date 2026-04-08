@@ -11,7 +11,7 @@ Não se preocupe se você não tem um currículo cheio de experiências — quer
 
 ## Avisos antes de começar
 
-- Leia com atenção este documento todo e tente seguir ao máximo as instruções;
+- Leia com atenção este documento e tente seguir ao máximo as instruções (valorizamos a atenção aos detalhes);
 - Crie um repositório no seu GitHub para fazer o projeto
 - Ao finalizar, envie o link do seu repositório para o discord do recrutador responsável (cristian.aragao);
 - Enviar, também, o APK do resultado final do projeto;
