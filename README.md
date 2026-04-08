@@ -28,14 +28,15 @@ Você deverá construir um app de Todo List que permita:
 - Remover tarefas.
 
 Requisitos obrigatórios:
-- React Native Bare Workflow (npx react-native init).
+- React Native com Expo.
 - UI construída usando Gluestack UI + Nativewind.
+- Uso de Typescript.
 - README claro de como rodar o projeto e gerar o APK, caso necessário.
 - Commit history limpo e significativo.
 - Firebase (Usar o firestore como banco de dados)
 
 ## Diferenciais:
-- Uso de Typescript.
+
 - Uso de react-hook-form para o formulário de nova tarefa.
 - Animações suaves usando reanimated ou moti.
 
