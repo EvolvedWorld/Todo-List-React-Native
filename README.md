@@ -16,7 +16,7 @@ Não se preocupe se você não tem um currículo cheio de experiências — quer
 - Ao finalizar, envie o link do seu repositório para o discord do recrutador responsável (cristian.aragao);
 - Enviar, também, o APK do resultado final do projeto;
 - Fique à vontade para perguntar qualquer dúvida ao recrutador;
-- Não há um prazo para a entrega do resultado, leve o tempo que precisar;
+- Prazo de entrega: **24/04/2026**
 
 ## Descrição do Projeto
 
